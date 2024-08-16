@@ -1,0 +1,4 @@
+Total words: 5
+Total lines: 1
+Average words per line: 5
+Most frequent word: Ola, (appeared 1 times)
